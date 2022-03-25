@@ -8,7 +8,9 @@
       <version>1.0.1-SNAPSHOT</version>
       <version>1.0.2-SNAPSHOT</version>
       <version>1.0.3-SNAPSHOT</version>
+      <version>1.0.4-SNAPSHOT</version>
+      <version>1.0.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220319160250</lastUpdated>
+    <lastUpdated>20220325215802</lastUpdated>
   </versioning>
 </metadata>

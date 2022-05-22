@@ -3,10 +3,11 @@
   <groupId>fr.azirixx.mc</groupId>
   <artifactId>paper</artifactId>
   <versioning>
-    <release>1.8.8</release>
+    <release>1.18.2</release>
     <versions>
       <version>1.8.8</version>
+      <version>1.18.2</version>
     </versions>
-    <lastUpdated>20210712174321</lastUpdated>
+    <lastUpdated>20220522094316</lastUpdated>
   </versioning>
 </metadata>
